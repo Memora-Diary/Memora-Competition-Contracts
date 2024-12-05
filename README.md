@@ -2,6 +2,9 @@
 
 A decentralized competition platform built on Base Sepolia where users can create, join, and participate in competitions with prize pools.
 
+![image](https://github.com/user-attachments/assets/0e6199ae-f31f-44fc-83a9-e29d1d33232f)
+
+
 ## Overview
 
 The Memora Competition platform allows users to:
